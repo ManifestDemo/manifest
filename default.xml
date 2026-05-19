@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="origin" fetch=".." />
+  <remote name="origin" fetch="git@github.com:ManifestDemo" />
   <default revision="dev2" remote="origin" sync-j="4" />
   <project name="1_test_repo" path="1_test_repo" />
   <project name="2_test_repo" path="2_test_repo" />
